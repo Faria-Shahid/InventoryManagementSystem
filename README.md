@@ -8,15 +8,7 @@ The system is designed to manage product inventory efficiently, with enhancement
 
 Project Structure
 -----------------
-FariaShahid_NED_2026/
-│
-├── v1/                         # Phase 1 - Functional Prototype
-│   └── KiryanaStore/          # CLI-based inventory system
-│
-├── v2/                         # Phase 2 - Scalable REST Application
-│   └── InventoryManagementSystem/
-│
-└── FariaShahid_NED_2026.pdf    # Project report/documentation
+<pre> FariaShahid_NED_2026/ ├── v1/ │ └── KiryanaStore/ # CLI-based prototype ├── v2/ │ └── InventoryManagementSystem/ # RESTful scalable system └── FariaShahid_NED_2026.pdf # Documentation </pre>
 
 Phase 1 - CLI Prototype
 -----------------------
