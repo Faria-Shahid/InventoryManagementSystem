@@ -6,16 +6,6 @@ Overview
 This repository contains a two-phase development of an Inventory Management System built as part of an academic project.
 The system is designed to manage product inventory efficiently, with enhancements introduced in each phase for improved usability and scalability.
 
-Project Structure
------------------
-FariaShahid_NED_2026/
-├── v1/
-│   └── KiryanaStore/                  # CLI-based prototype
-├── v2/
-│   └── InventoryManagementSystem/     # RESTful scalable system
-└── FariaShahid_NED_2026.pdf           # Documentation
-
-
 Phase 1 - CLI Prototype
 -----------------------
 - A command-line interface (CLI) application named KiryanaStore.
